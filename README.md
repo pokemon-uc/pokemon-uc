@@ -5,7 +5,7 @@ AI & Full Stack Developer | Machine Learning Enthusiast | Hackathon Builder
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Full+Stack+Web+Developer;Hackathon+Enthusiast;Building+AI+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Hackathon+Builder;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 ---
