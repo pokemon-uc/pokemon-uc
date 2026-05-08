@@ -79,9 +79,9 @@ Machine Learning system to predict energy usage and optimize consumption.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pokemon-uc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pokemon-uc&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokemon-uc&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokemon-uc&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
