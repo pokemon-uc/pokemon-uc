@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prisha Kulkarni</h1>
 
-This creates hacker-terminal aesthetics.
 
----
 
-# 🔥 3. Add Neon Dividers
-
-```md
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2f0d1f9b-1d73-4cfd-85d1-ef5b2c31c7f8.gif" width="100%">
-
-<h3 align="center">
-AI & Full Stack Developer | Machine Learning Enthusiast | Hackathon Builder
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Hackathon+Builder;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
@@ -21,7 +12,7 @@ AI & Full Stack Developer | Machine Learning Enthusiast | Hackathon Builder
 
 # 🚀 About Me
 
-```python
+
 class PrishaKulkarni:
 
     def __init__(self):
@@ -34,7 +25,7 @@ class PrishaKulkarni:
 
 me = PrishaKulkarni()
 me.say_hi()
-```
+
 
 ---
 
